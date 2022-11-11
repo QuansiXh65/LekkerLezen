@@ -1,0 +1,68 @@
+.books{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    padding: 10px;
+    margin-right: 36vw;
+    margin-left: 36vw;
+}
+
+.books-box {
+    background-color: hsla(42, 100%, 57%, 0.76);
+    border-radius: 2px;
+    padding: 40px;
+    margin-bottom: 20px;
+}
+.ten-books-box{
+    background-color: hsla(48, 73%, 47%, 0.78);
+    border-radius: 2px;
+    padding: 40px;
+    margin-bottom: 20px;
+
+    margin-right: 36vw;
+    margin-left: 36vw;
+}
+
+.detail-box{
+    background-color: hsla(29, 71%, 71%, 0.82);
+    border-radius: 2px;
+    padding: 40px;
+    margin-bottom: 20px;
+
+    margin-right: 20vw;
+    margin-left: 20vw;
+}
+
+.price{
+    color: #ffedde;
+    font-family: Georgia, serif;
+}
+.rating{
+    color: #ffedde;
+    font-family: Georgia, serif;
+}
+
+.image{
+    border-color: #ffffff;
+    border-radius: 2px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+.details{
+    color: #ffffff;
+    margin-top: 20px;
+    text-decoration: none;
+}
+.details:hover{
+    color: #ffffff;
+    background-color: hsla(0, 0%, 95%, 0.27);
+}
+.details:visited{
+    color: #ffffff;
+}
+

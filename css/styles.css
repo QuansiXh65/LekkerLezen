@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin-top: 40px;
+    padding-top: 30px;
+
+    background-color: hsl(25, 68%, 85%, 0.86);
+    background-image: url("../img/library3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.welcome{
+    color: white;
+    font-size: 200%;
+    margin-top: 40px;
+}
+
+.wlcm-img{
+    float: right;
+    display: block;
+}
+
+.h2{
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.header2{
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+
+    font-family: Georgia, serif;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 50px;
+    padding-left: 20px;
+    margin-right: 36vw;
+    margin-left: 36vw;
+}
+
+.contact{
+    background-color: hsl(200, 32%, 54%, 0.86);
+    color: #fffdfd;
+    border-radius: 3px;
+    font-family: Gill Sans, sans-serif;
+
+    padding-top: 2vw;
+    padding-bottom: 3vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+
+    margin-top: 20px;
+    margin-right: 36vw;
+    margin-left: 36vw;
+} .send{
+    font-family: Bahnschrift Light;
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #dadada;
+    border-radius: 5px;
+    padding: 2px;
+  }
+
+.welcome-box{
+    background-color: hsl(200, 32%, 54%);
+    border-radius: 4px;
+    padding-top: 0.2vw;
+    padding-bottom: 3vw;
+    padding-left: 5vw;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.box{
+    background-color: hsla(36, 100%, 90%, 0.45);
+    border-radius: 3px;
+    padding: 3vw;
+    margin-top: 1vw;
+    margin-right: 60vw;
+}
+
+.title{
+    color: #ffffff;
+    font-family: Bahnschrift;
+    font-weight: bold;
+}
+
+.p1{
+    color: #ffffff;
+    font-family: Bahnschrift Light;
+}
+
+.p2{
+    color: whitesmoke;
+    font-family: Bahnschrift Light;
+    margin-left: 0px;
+} .p3 {
+      color: #fffdf7;
+      font-family: Bahnschrift Light;
+      margin-top: 10px;
+      margin-left: 60px;
+
+}
